@@ -1,3 +1,5 @@
+import React from "react"
+import ReactDOM from "react-dom/client" // As react-dom give warning
 // Here we are just creating a element inside react, 
 // So this is a core react job
 
